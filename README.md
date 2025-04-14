@@ -9,7 +9,6 @@ A modern full-stack starter template built with:
 - [ShadCN UI](https://ui.shadcn.dev/)
 - [ESLint](https://eslint.org/) & [Prettier](https://prettier.io/)
 
----
 
 ## ✨ Features
 
@@ -19,7 +18,6 @@ A modern full-stack starter template built with:
 - ✅ Code quality enforced via ESLint, Prettier, and TypeScript strict mode
 - 🧪 Easy to extend with your own logic and packages
 
----
 
 ## 📦 Tech Stack
 
